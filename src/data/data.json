@@ -3,19 +3,22 @@
         "Header": "Tutorial",
         "Description": "Description",
         "Content": "Content",
-        "SideBar": "SideBar"
+        "SideBar": "SideBar",
+        "id":1
     },
     "Guide": {
         "Header": "Guide",
         "Description": "Guide Description",
         "Content": "Guide Content",
-        "SideBar": "Guide SideBar"
+        "SideBar": "Guide SideBar",
+        "id":2
     },
     "API": {
         "Header": "API",
         "Description": "API Documentation",
         "Content": "API Content",
-        "SideBar": "API SideBar"
+        "SideBar": "API SideBar",
+        "id":3
     }
-    
+
 }
