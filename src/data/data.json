@@ -1,0 +1,21 @@
+{
+    "Tutorial":{
+        "Header": "Tutorial",
+        "Description": "Description",
+        "Content": "Content",
+        "SideBar": "SideBar"
+    },
+    "Guide": {
+        "Header": "Guide",
+        "Description": "Guide Description",
+        "Content": "Guide Content",
+        "SideBar": "Guide SideBar"
+    },
+    "API": {
+        "Header": "API",
+        "Description": "API Documentation",
+        "Content": "API Content",
+        "SideBar": "API SideBar"
+    }
+    
+}
