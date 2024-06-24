@@ -8,14 +8,14 @@ export default function Content(){
         content.push([Data[i].id, Data[i].Header, Data[i].Content]);
     }
     return(
-        <div className="ml-64 p-10">
+        <div className="ml-64 p-10 ">
             {content.map((item, index) => (
-                <div key={index} id={item[0]} className="mb-10">
+                <div key={index} id={item[0]} className=" mt-16">
                     <h1 className="text-3xl font-semibold">{item[1]}</h1><br/>
-                    <p className="mt-5 text-lg">{item[2]}</p>
+                    <p className="text-lg">{item[2]}</p>
                     <br/><br/><hr/>
                 </div>
-            ))}   
+            ))}  
         </div>
     )    
 }

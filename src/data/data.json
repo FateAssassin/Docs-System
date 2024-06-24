@@ -1,9 +1,9 @@
 {
     "Tutorial":{
-        "Header": "Tutorial",
-        "Description": "Description",
-        "Content": "Content",
-        "SideBar": "SideBar",
+        "Header": "Introduction",
+        "Description": "Introduction to the system",
+        "Content": "<p>",
+        "SideBar": "Introduction",
         "id":1
     },
     "Guide": {
