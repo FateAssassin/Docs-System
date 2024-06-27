@@ -2,23 +2,44 @@
     "Tutorial":{
         "Header": "Introduction",
         "Description": "Introduction to the system",
-        "Content": "<p>",
+        "Content": "<p>Hey, and thanks for checking ot this project. This is a docs-system, <br/>which is basically based on a JSON-response that might come from your server.</p>",
         "SideBar": "Introduction",
-        "id":1
+        "id": 1
     },
     "Guide": {
-        "Header": "Guide",
-        "Description": "Guide Description",
-        "Content": "Guide Content",
-        "SideBar": "Guide SideBar",
+        "Header": "Features",
+        "Description": "Features of this system",
+        "Content": "<p>This system features a dynamic sidebar, based on your JSON-response, and it uses markdown.<br/><i>What does this mean for you?</i><br/>You can add <b>anything</b> you want, as long as it works in HTML.<br/></p>",
+        "SideBar": "Features",
         "id":2
     },
-    "API": {
-        "Header": "API",
-        "Description": "API Documentation",
-        "Content": "API Content",
-        "SideBar": "API SideBar",
+    "Placeholder1": {
+        "Header": "Placeholder",
+        "Description": "Placeholders",
+        "Content": "<p>After this section, there will be nothing of meaning, just placeholders to demonstrate the system. Thanks for checking out this project!</p>",
+        "SideBar": "Placeholder 1",
         "id":3
+    },
+    "Placeholder2": {
+        "Header": "Placeholder",
+        "Description": "Placeholders",
+        "Content": "<p>Lorem ipsum dolor sit amet, consectetur adipiscing elit. Sed euismod, nisl a lacinia tincidunt, risus nunc tincidunt nunc, id tincidunt nisl nunc vel nunc. Nulla facilisi. Nullam id nisl auctor, lacinia nunc a, tincidunt nunc. Nulla facilisi. Sed auctor, nisl a lacinia tincidunt, risus nunc tincidunt nunc, id tincidunt nisl nunc vel nunc. Nulla facilisi. Nullam id nisl auctor, lacinia nunc a, tincidunt nunc.</p>",
+        "SideBar": "Placeholder 2",
+        "id": 4
+    },
+    "Placeholder3": {
+        "Header": "Placeholder",
+        "Description": "Placeholders",
+        "Content": "<p>Lorem ipsum dolor sit amet, consectetur adipiscing elit. Sed euismod, nisl a lacinia tincidunt, risus nunc tincidunt nunc, id tincidunt nisl nunc vel nunc. Nulla facilisi. Nullam id nisl auctor, lacinia nunc a, tincidunt nunc. Nulla facilisi. Sed auctor, nisl a lacinia tincidunt, risus nunc tincidunt nunc, id tincidunt nisl nunc vel nunc. Nulla facilisi. Nullam id nisl auctor, lacinia nunc a, tincidunt nunc.</p>",
+        "SideBar": "Placeholder 3",
+        "id": 5
+    },
+    "Placeholder4": {
+        "Header": "Placeholder",
+        "Description": "Placeholders",
+        "Content": "<p>Lorem ipsum dolor sit amet, consectetur adipiscing elit. Sed euismod, nisl a lacinia tincidunt, risus nunc tincidunt nunc, id tincidunt nisl nunc vel nunc. Nulla facilisi. Nullam id nisl auctor, lacinia nunc a, tincidunt nunc. Nulla facilisi. Sed auctor, nisl a lacinia tincidunt, risus nunc tincidunt nunc, id tincidunt nisl nunc vel nunc. Nulla facilisi. Nullam id nisl auctor, lacinia nunc a, tincidunt nunc.</p>",
+        "SideBar": "Placeholder 4",
+        "id": 6
     }
 
 }

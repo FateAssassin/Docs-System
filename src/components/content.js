@@ -1,5 +1,6 @@
 import React from "react";
 import Data from '../data/data.json';
+import ReactHtmlParser from "react-html-parser";
 
 export default function Content(){
 
@@ -12,7 +13,7 @@ export default function Content(){
             {content.map((item, index) => (
                 <div key={index} id={item[0]} className=" mt-16">
                     <h1 className="text-3xl font-semibold">{item[1]}</h1><br/>
-                    <p className="text-lg">{item[2]}</p>
+                    <p className="text-lg">{ ReactHtmlParser(item[2]) }</p>
                     <br/><br/><hr/>
                 </div>
             ))}  

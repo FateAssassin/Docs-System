@@ -1,4 +1,4 @@
-import React, { act } from 'react';
+import React from 'react';
 import Data from '../data/data.json';
 
 export default function SideBar(){
